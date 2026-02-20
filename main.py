@@ -1,6 +1,6 @@
 """
 Main entry point for the AI Stickman Dancing Game.
-Integrates NLP,Computer Vision, and Animation systems.
+Integrates NLP, Computer Vision, and Animation systems.
 """
 
 import cv2
