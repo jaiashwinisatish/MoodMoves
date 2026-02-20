@@ -324,14 +324,3 @@ This project is open source and available under the MIT License.
 - **OpenCV**: Computer vision library
 - **NumPy**: Numerical computing support
 
-## 📞 Support
-
-For issues, questions, or contributions:
-1. Check the troubleshooting section
-2. Review the technical documentation
-3. Test individual components
-4. Report issues with system details
-
----
-
-**Enjoy the AI Stickman Dancing Game! 🎮💃🕺**
