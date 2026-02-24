@@ -1,4 +1,4 @@
-# AI Stickman Dancing Game
+# AI Stickman Dancing Game...
 
 An interactive real-time stickman game that combines Natural Language Processing (NLP) and Computer Vision to create an engaging dancing experience.
 
